@@ -1,4 +1,4 @@
-import Message from "./Message";
+import Message from "./Components/Message";
 
 function App() {
   return (

@@ -1,9 +1,10 @@
-import ListGroup from "./Components/ListGroup";
+import Button from "./Components/Button";
+import "./App.css";
 
 function App() {
   return (
-    <div>
-      <ListGroup />
+    <div className="app">
+      <Button />
     </div>
   );
 }
